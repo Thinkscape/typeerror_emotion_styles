@@ -1,7 +1,7 @@
 "use client";
 
-import { StyledEngineProvider } from "@mui/material";
-import { PieChart } from "@mui/x-charts";
+import { StyledEngineProvider } from "@mui/material/styles";
+import { PieChart } from "@mui/x-charts/PieChart";
 
 export default function Home() {
   return (
